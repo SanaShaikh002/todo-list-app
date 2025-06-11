@@ -12,7 +12,7 @@ This is a simple and responsive To-Do List web application built using:
 - Search/filter tasks in real-time
 - Data saved in browser using localStorage
 
-👀 **Preview it by opening `index.html` in your browser.**
+👀 👉 [Click here to view the live app]--https://sanashaikh002.github.io/todo-list-app/
 
 ---
 
